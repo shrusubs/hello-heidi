@@ -1,3 +1,3 @@
 print("Hi my name is Shruthi")
 print("HEYYYYYYYY")
-print("I'm bored, this is stupid")
+print("this is so fun, this is great!")
